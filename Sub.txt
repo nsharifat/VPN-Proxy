@@ -1,1 +1,5 @@
-https://raw.githubusercontent.com/gigplus/warphidfifysub/main/sub-warp
+warp://engage.cloudflareclient.com:2408/?ifp=5-10
+warp://162.159.192.56:8319/?ifp=5-10
+warp://162.159.192.8:3854/?ifp=5-10
+warp://162.159.192.179:3854/?ifp=5-10
+warp://162.159.195.215:8319/?ifp=5-10
